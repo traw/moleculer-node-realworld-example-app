@@ -30,7 +30,7 @@
     "jsonwebtoken": "8.1.0",
     "lodash": "4.17.4",
     "moleculer": "^0.11.0",
-    "moleculer-db": "0.7.0",
+    "moleculer-db": "0.8.15",
     "moleculer-db-adapter-mongo": "0.1.6",
     "moleculer-web": "0.6.0-beta7",
     "nats": "0.7.24",
